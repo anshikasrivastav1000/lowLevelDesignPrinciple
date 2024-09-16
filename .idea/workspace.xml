@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ce034c7-f3c9-46a8-b3f6-c911fdcb3601" name="Changes" comment="" />
+    <list default="true" id="6ce034c7-f3c9-46a8-b3f6-c911fdcb3601" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lesson1/Example1Frontend/BetterCode/UserContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/Example1Frontend/BetterCode/UserprofileUi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/Example1Frontend/BetterCode/useUserFetcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/Example1Frontend/ProblemticCode/UserProfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/Example2/BetterCode/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/Example2/BetterCode/EmployeePerformanceEvaluator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/Example2/BetterCode/EmployeeSalaryCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/Example2/BetterCode/FetchEmployeeBioData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/Example3/EmployeePerformanceGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +47,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2m9NMY8baBNtPqzzqkfvPYChyTt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
