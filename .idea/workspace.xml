@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ce034c7-f3c9-46a8-b3f6-c911fdcb3601" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OpenClosedPrinciple/Example1/BetterCode/EmailNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OpenClosedPrinciple/Example1/BetterCode/Notification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OpenClosedPrinciple/Example1/BetterCode/NotificationSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OpenClosedPrinciple/Example1/BetterCode/PushNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OpenClosedPrinciple/Example1/BetterCode/SmsNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OpenClosedPrinciple/Example1/BetterCode/WhatsappNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OpenClosedPrinciple/Example1/ProblematicCode/NotificationSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OpenClosedPrinciple/Example1/ProblematicCode/NotificationType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OpenClosedPrinciple/Example2/BetterCode/ProfileViewSelector.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OpenClosedPrinciple/Example2/BetterCode/UserProfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OpenClosedPrinciple/Example2/ProblematicCode/Userprofile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OpenClosedPrinciple/Example3/BetterCode/PDFReportGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OpenClosedPrinciple/Example3/BetterCode/ReportGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OpenClosedPrinciple/Example3/BetterCode/WordReportGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OpenClosedPrinciple/Example3/ProblematicCode/ReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClass/Abstract.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SRP/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
